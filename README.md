@@ -13,7 +13,7 @@ No external harware require, no blooth, no car computer just your smarthphone.
 
 Android version: https://play.google.com/store/apps/details?id=it.uniroma3.adateam.ada
 
-IoS: https://itunes.apple.com/app/id1313903656
+iOS: https://itunes.apple.com/app/id1313903656
 
 YouTube Guides: https://www.youtube.com/channel/UCkw13ItlxsbkCiWw30jYXIQ/playlists?view_as=subscriber
 
@@ -65,7 +65,7 @@ ADA non ha bisogno di nessun hardware aggiuntivo, bluetooth o computer di bordo,
 
 Android version: https://play.google.com/store/apps/details?id=it.uniroma3.adateam.ada
 
-IoS: https://itunes.apple.com/app/id1313903656
+iOS: https://itunes.apple.com/app/id1313903656
 
 Guide su youtube: https://www.youtube.com/channel/UCkw13ItlxsbkCiWw30jYXIQ/playlists?view_as=subscriber
 
