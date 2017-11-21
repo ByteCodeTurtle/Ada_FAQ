@@ -15,6 +15,8 @@ Android version: https://play.google.com/store/apps/details?id=it.uniroma3.adate
 
 IoS: https://itunes.apple.com/app/id1313903656
 
+YouTube Guides: https://www.youtube.com/channel/UCkw13ItlxsbkCiWw30jYXIQ/playlists?view_as=subscriber
+
 After you start the app before your drive session you can turn off the screen, it will work in background, don't be distracted while driving!
 
 # ENGLISH FAQ 
@@ -64,6 +66,8 @@ ADA non ha bisogno di nessun hardware aggiuntivo, bluetooth o computer di bordo,
 Android version: https://play.google.com/store/apps/details?id=it.uniroma3.adateam.ada
 
 IoS: https://itunes.apple.com/app/id1313903656
+
+Guide su youtube: https://www.youtube.com/channel/UCkw13ItlxsbkCiWw30jYXIQ/playlists?view_as=subscriber
 
 Prima di iniziare a guidare clicca su "inizia sessione di guida", dopo potrai anche spegnere lo schermo, l'applicazione funzionerà anche in background. Non distrarti durante la guida guardando lo smarthphone!
 
